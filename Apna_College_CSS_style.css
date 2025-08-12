@@ -1,0 +1,15 @@
+div {
+   height:100px;
+   width:100px;
+   background-color:pink;
+   border-width : 2px;
+   border-style : solid;
+   border-color : black;
+   border :2px solid black;
+   
+   text-align: center;
+   line-height: 110px;
+   padding: 1px 2px 3px 4px;
+}
+
+
